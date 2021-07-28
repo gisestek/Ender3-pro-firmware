@@ -8,3 +8,5 @@
 <img align="right" width=175 src="buildroot/share/pixmaps/logo/marlin-250.png" />
 
 This is just my printers configuration backup
+
+<img align="center" width=128 src="https://github.com/gisestek/Ender3-pro-firmware/blob/master/jack.png" />
