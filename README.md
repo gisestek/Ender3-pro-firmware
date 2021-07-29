@@ -10,3 +10,5 @@
 This is just my printers configuration backup
 
 <img align="center" width=128 src="https://github.com/gisestek/Ender3-pro-firmware/blob/master/jack.png" />
+
+The Creality V1.1.5 extruder driver possibly burnt -> switch to MKS SBASE V1.3 board.
